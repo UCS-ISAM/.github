@@ -26,4 +26,4 @@ Estamos sempre em busca de colaborações que possam melhorar e expandir as func
 
 ## Contato 📧
 
-Para mais informações, colaborações ou dúvidas, entre em contato através de [isam@ucs.br] ou visite nosso [website](https://www.ucs.br/site/isam/o-instituto/).
+Para mais informações, colaborações ou dúvidas, entre em contato através de isam@ucs.br ou visite nosso [website](https://www.ucs.br/site/isam/o-instituto/).
